@@ -1,0 +1,14 @@
+# Only the kit's own files: nothing from the game (a built SegaRallyPC/ folder included), the patches, the mod or other
+# downloads
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/build.py
+!/patch_exe.py
+!/disc.py
+!/expand_szdd.py
+!/config/
+!/docs/
+!/steamdeck/
+__pycache__/
